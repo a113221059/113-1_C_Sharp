@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113-1_C_Sharp\\113-10-8\\tutonial2_5\\TextboxDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF62362E-FFD1-4EE3-A6D1-478DAB61A6AD}|TextboxDemo\\TextboxDemo.csproj|c:\\users\\shu\\desktop\\113-1_c_sharp\\113-10-8\\tutonial2_5\\textboxdemo\\textboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF62362E-FFD1-4EE3-A6D1-478DAB61A6AD}|TextboxDemo\\TextboxDemo.csproj|solutionrelative:textboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113-1_C_Sharp\\113-10-8\\tutonial2_5\\TextboxDemo\\TextboxDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "TextboxDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113-1_C_Sharp\\113-10-8\\tutonial2_5\\TextboxDemo\\TextboxDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "TextboxDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:49:26.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
